@@ -1,2 +1,3 @@
-# Joseph2000100.github.io
-portfolio
+# portfolio
+portfolio for spring term 2022
+Name: Joseph Honess
